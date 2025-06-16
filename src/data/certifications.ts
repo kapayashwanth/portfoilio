@@ -15,6 +15,34 @@ export interface Certification {
 
 export const certifications: Certification[] = [
   {
+    title: "AWS Certified Cloud Practitioner",
+    issuer: "Amazon Web Services",
+    date: "Jun 2025",
+    credentialId: "AWS-CCP-123456",
+    credentialUrl:
+      "https://www.credly.com/badges/aws-certified-cloud-practitioner",
+    imageUrl: "/certificates/aws_cloud_practitioner.jpg",
+    skills: ["Cloud Computing", "AWS Services", "Cloud Architecture"],
+    description:
+      "Foundational understanding of AWS Cloud concepts, services, security, architecture, pricing, and support.",
+    verificationText: "Verify on Credly",
+    certificatePath: "/certificates/aws_cloud_practitioner.pdf",
+  },
+  {
+    title: "British Airways Data Analytics",
+    issuer: "British Airways",
+    date: "Jun 2025",
+    credentialId: "BA-DA-789012",
+    credentialUrl:
+      "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/british-airways/",
+    imageUrl: "/certificates/british_airways.jpg",
+    skills: ["Data Analytics", "Business Intelligence", "Data Visualization"],
+    description:
+      "Completed British Airways' virtual job simulation, gaining hands-on experience in data analytics and business intelligence.",
+    verificationText: "View certificate via Forage",
+    certificatePath: "/certificates/british_airways.pdf",
+  },
+  {
     title: "Infosys Generative AI for all",
     issuer: "Infosys Springboard",
     date: "Jun 2025",
