@@ -20,12 +20,12 @@ export const certifications: Certification[] = [
     date: "Jun 2025",
     credentialId: "AWS-CCP-123456",
     credentialUrl:
-      "https://www.credly.com/badges/aws-certified-cloud-practitioner",
-    imageUrl: "/certificates/aws_cloud_practitioner.jpg",
+      "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_ncvG7RGcDDhihF4KK_1750007896396_completion_certificate.pdf",
+    imageUrl: "/certificates/aws_cloud_practitioner.png",
     skills: ["Cloud Computing", "AWS Services", "Cloud Architecture"],
     description:
       "Foundational understanding of AWS Cloud concepts, services, security, architecture, pricing, and support.",
-    verificationText: "Verify on Credly",
+    verificationText: "View certificate via Forage",
     certificatePath: "/certificates/aws_cloud_practitioner.pdf",
   },
   {
@@ -34,8 +34,8 @@ export const certifications: Certification[] = [
     date: "Jun 2025",
     credentialId: "BA-DA-789012",
     credentialUrl:
-      "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/british-airways/",
-    imageUrl: "/certificates/british_airways.jpg",
+      "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_ncvG7RGcDDhihF4KK_1750008641425_completion_certificate.pdf",
+    imageUrl: "/certificates/british_airways.png",
     skills: ["Data Analytics", "Business Intelligence", "Data Visualization"],
     description:
       "Completed British Airways' virtual job simulation, gaining hands-on experience in data analytics and business intelligence.",
