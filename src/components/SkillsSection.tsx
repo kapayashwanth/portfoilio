@@ -50,7 +50,6 @@ const SkillsSection = () => {
         { name: "C", level: 95 },
         { name: "Java", level: 90 },
         { name: "Python", level: 85 },
-        { name: "JavaScript", level: 80 },
       ],
     },
     {
@@ -60,8 +59,6 @@ const SkillsSection = () => {
       skills: [
         { name: "HTML", level: 95 },
         { name: "CSS", level: 90 },
-        { name: "React", level: 85 },
-        { name: "Node.js", level: 75 },
       ],
     },
     {
@@ -72,7 +69,6 @@ const SkillsSection = () => {
         { name: "Firebase", level: 85 },
         { name: "Supabase", level: 80 },
         { name: "MySQL", level: 85 },
-        { name: "MongoDB", level: 75 },
       ],
     },
     {
@@ -84,17 +80,6 @@ const SkillsSection = () => {
         { name: "Netlify", level: 85 },
         { name: "VS Code", level: 95 },
         { name: "Linux", level: 80 },
-      ],
-    },
-    {
-      title: "AI & Machine Learning",
-      icon: <Cpu className="w-6 h-6" />,
-      color: "from-primary to-accent",
-      skills: [
-        { name: "TensorFlow", level: 70 },
-        { name: "Scikit-learn", level: 75 },
-        { name: "Pandas", level: 80 },
-        { name: "NumPy", level: 85 },
       ],
     },
     {
