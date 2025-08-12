@@ -31,14 +31,22 @@ const projects: Project[] = [
     imageUrl: "/projects/event_listing_website.png",
   },
   {
-    title: "MEDIMIND AI",
+    title: "PaperLens AI — Research Paper Analyzer",
     description:
-      "Engineered MEDIMIND-AI, a full-stack application utilizing cutting-edge AI models and a modern tech stack to deliver comprehensive medical information services.",
-    skills: ["Firebase", "Gemini API", "TypeScript"],
-    githubLink: "https://github.com/kapayashwanth/MEDIMIND-AI.git",
-    liveDemoLink:
-      "https://app.base44.com/apps/6846b3e000cee0cf7ccb119d/editor/preview/Dashboard",
-    imageUrl: "/projects/medimind_ai.png",
+      "Analyze research papers to extract key insights, sections, and summaries with citations. Generates a structured PDF report.",
+    skills: ["Node.js", "Express", "Gemini API", "PDF"],
+    githubLink: "https://github.com/kapayashwanth/research_paper_analyzer.git",
+    liveDemoLink: "https://airesearchpaper.netlify.app/",
+    imageUrl: "/projects/ai_research_paper_analyzer.png",
+  },
+  {
+    title: "AgriCare AI — Crop Disease Detector",
+    description:
+      "Detect crop diseases from images using AI and get treatments, causes, and a downloadable analysis report.",
+    skills: ["Node.js", "Express", "Gemini Vision", "Netlify"],
+    githubLink: "https://github.com/kapayashwanth/agricare.git",
+    liveDemoLink: "https://agricareai.netlify.app/",
+    imageUrl: "/projects/agricare_crop_detector.png",
   },
   {
     title: "E-SPORTS TOURNAMENT HOSTING WEBSITE",
