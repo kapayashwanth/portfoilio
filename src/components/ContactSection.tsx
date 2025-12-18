@@ -103,8 +103,8 @@ const ContactSection = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       label: "Email",
-      value: "kapayashwanth8@gmail.com",
-      href: "mailto:kapayashwanth8@gmail.com",
+      value: "admin@kapayashwanth.me",
+      href: "mailto:admin@kapayashwanth.me",
       color: "hover:bg-red-500/20 hover:border-red-500/50",
     },
     {
@@ -334,3 +334,4 @@ const ContactSection = () => {
 };
 
 export default ContactSection;
+
